@@ -43,7 +43,7 @@ if %cont% equ y (
 PAUSE
 ```
 
-<span style="color:red">Be aware while providing connection string and storage names. It will delete them in one go </span>.
+### <span style="color:red">Be aware while providing connection string and storage names. It will delete them in one go </span>.
 
 ## Example Run
 
