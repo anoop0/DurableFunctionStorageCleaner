@@ -8,7 +8,7 @@ manually delete function storage two containers, five Queues and two tables from
 storage emulator.
 
 ### Solution
-#### DurableFunctionStorageCleaner deletes the containers, queues and tables in one click.
+#### DurableFunctionStorageCleaner deletes the containers, queues and tables used by Durable Function app in one click.
 This is also helpful when we need to reset function app on server. The purge option of 
 Durable Functioin can't reset the hung operations or running functions.
 
