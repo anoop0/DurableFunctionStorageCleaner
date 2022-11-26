@@ -1,5 +1,5 @@
 ## DurableFunctionStorageCleaner
-Cleans blob, queue and table used by durable function in one click. It will resets Durabel Function app runs and storage used.
+Cleans blob, queue and table used by durable function in one click. It will resets Durabe Function app runs and storage used.
 
 ### Use Case
 Durable Function restarts/resume on server restart. It manages cycle by own.
